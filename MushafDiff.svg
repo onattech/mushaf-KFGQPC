@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192.18921mm"
+   height="113.55891mm"
+   viewBox="0 0 192.18921 113.55891"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Mushaf Diff.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2812"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#44aa00;fill-opacity:1;fill-rule:evenodd;stroke:#44aa00;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2810"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2668"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2666"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#44aa00;fill-opacity:1;fill-rule:evenodd;stroke:#44aa00;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2434"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2432"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#44aa00;fill-opacity:1;fill-rule:evenodd;stroke:#44aa00;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2236"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#44aa00;fill-opacity:1;fill-rule:evenodd;stroke:#44aa00;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2234"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1918"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1916"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1762"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1760"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1564"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1562"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path867"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4160825"
+     inkscape:cx="246.95977"
+     inkscape:cy="241.93969"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.924381,-170.37213)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.30000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect3192"
+       width="199.21025"
+       height="121.48116"
+       x="13.924381"
+       y="170.39293" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'KFGQPC HAFS Uthmanic Script';-inkscape-font-specification:'KFGQPC HAFS Uthmanic Script';letter-spacing:0px;word-spacing:0px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="156.67113"
+       y="180.77232"
+       id="text836"><tspan
+         sodipodi:role="line"
+         id="tspan834"
+         x="156.67113"
+         y="180.77232"
+         style="stroke-width:0.26458332">فِي ٱلۡجَحِيمِ ٩٧ فَأَرَادُواْ بِهِۦ كَيۡدٗا فَجَعَلۡنَٰهُمُ ٱلۡأَسۡفَلِينَ ٩٨ </tspan><tspan
+         sodipodi:role="line"
+         x="156.67113"
+         y="189.59177"
+         style="stroke-width:0.26458332"
+         id="tspan838">وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهۡدِينِ ٩٩ رَبِّ هَبۡ لِي مِنَ ٱلصَّٰلِحِينَ ١٠٠ </tspan><tspan
+         sodipodi:role="line"
+         x="156.67113"
+         y="198.41121"
+         style="stroke-width:0.26458332"
+         id="tspan840">فَبَشَّرۡنَٰهُ بِغُلَٰمٍ حَلِيمٖ ١٠١ فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعۡيَ قَالَ يَٰبُنَيَّ </tspan><tspan
+         sodipodi:role="line"
+         x="156.67113"
+         y="207.23065"
+         style="stroke-width:0.26458332"
+         id="tspan842">إِنِّيٓ أَرَىٰ فِي ٱلۡمَنَامِ أَنِّيٓ أَذۡبَحُكَ فَٱنظُرۡ مَاذَا تَرَىٰۚ قَالَ يَٰٓأَبَتِ </tspan><tspan
+         sodipodi:role="line"
+         x="156.67113"
+         y="216.05009"
+         style="stroke-width:0.26458332"
+         id="tspan844">ٱفۡعَلۡ مَا تُؤۡمَرُۖ سَتَجِدُنِيٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ ١٠٢ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'KFGQPC HAFS Uthmanic Script';-inkscape-font-specification:'KFGQPC HAFS Uthmanic Script';letter-spacing:0px;word-spacing:0px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="156.67113"
+       y="243.13837"
+       id="text848"><tspan
+         sodipodi:role="line"
+         id="tspan846"
+         x="156.67113"
+         y="243.13837"
+         style="stroke-width:0.26458332">فِي ٱلۡجَحِيمِ ٧٩ فَأَرَادُواْ بِهِۦ كَيۡدٗا فَجَعَلۡنَٰهُمُ ٱلۡأَسۡفَلِينَ ٨٩ </tspan><tspan
+         sodipodi:role="line"
+         x="156.67113"
+         y="251.95781"
+         style="stroke-width:0.26458332"
+         id="tspan850">وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهۡدِينِ ٩٩ رَبِّ هَبۡ لِي مِنَ ٱلصَّٰلِحِينَ ٠٠١ </tspan><tspan
+         sodipodi:role="line"
+         x="156.67113"
+         y="260.77725"
+         style="stroke-width:0.26458332"
+         id="tspan852">فَبَشَّرۡنَٰهُ بِغُلَٰمٍ حَلِيمٖ ١٠١ فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعۡيَ قَالَ يَٰبُنَيَّ </tspan><tspan
+         sodipodi:role="line"
+         x="156.67113"
+         y="269.59671"
+         style="stroke-width:0.26458332"
+         id="tspan854">إِنِّيٓ أَرَىٰ فِي ٱلۡمَنَامِ أَنِّيٓ أَذۡبَحُكَ فَٱنظُرۡ مَاذَا تَرَىٰۚ قَالَ يَٰٓأَبَتِ </tspan><tspan
+         sodipodi:role="line"
+         x="156.67113"
+         y="278.41614"
+         style="stroke-width:0.26458332"
+         id="tspan856">ٱفۡعَلۡ مَا تُؤۡمَرُۖ سَتَجِدُنِيٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ ٢٠١ </tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.16714378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 36.738696,170.43016 4.797094,4.97207"
+       id="path862"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1560"
+       d="m 124.05123,170.95933 4.79709,4.97207"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.16714378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1564)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1758"
+       d="m 13.984524,179.95516 4.797094,4.97207"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.16714378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1762)" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.16714378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1918)"
+       d="m 41.037473,220.86864 4.97207,-4.7971"
+       id="path1914"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2232"
+       d="m 36.738696,233.9302 4.797094,4.97207"
+       style="fill:#44aa00;stroke:#44aa00;stroke-width:0.16714378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2236)" />
+    <path
+       style="fill:#44aa00;stroke:#44aa00;stroke-width:0.16714378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2434)"
+       d="m 123.52203,233.40103 4.79709,4.97207"
+       id="path2430"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#44aa00;stroke:#44aa00;stroke-width:0.16714378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2668)"
+       d="m 15.572028,241.86772 4.797094,4.97207"
+       id="path2664"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2808"
+       d="m 40.84998,283.8709 4.97207,-4.7971"
+       style="fill:#44aa00;stroke:#44aa00;stroke-width:0.16714378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2812)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'KFGQPC HAFS Uthmanic Script';-inkscape-font-specification:'KFGQPC HAFS Uthmanic Script';letter-spacing:0px;word-spacing:0px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="160.12589"
+       y="194.47714"
+       id="text3176"><tspan
+         sodipodi:role="line"
+         id="tspan3174"
+         x="160.12589"
+         y="194.47714"
+         style="direction:ltr;stroke-width:0.26458332">The original text from</tspan><tspan
+         sodipodi:role="line"
+         x="160.12589"
+         y="200.16293"
+         style="direction:ltr;stroke-width:0.26458332"
+         id="tspan3178">KFGQPC website</tspan></text>
+    <text
+       id="text3184"
+       y="259.29837"
+       x="160.258"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'KFGQPC HAFS Uthmanic Script';-inkscape-font-specification:'KFGQPC HAFS Uthmanic Script';letter-spacing:0px;word-spacing:0px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan3182"
+         style="direction:ltr;stroke-width:0.26458332"
+         y="259.29837"
+         x="160.258"
+         sodipodi:role="line">The corrected version</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.29524004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 156.95592,227.78128 H 18.761472"
+       id="path3188"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
