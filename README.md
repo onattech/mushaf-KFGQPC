@@ -1,4 +1,4 @@
-# mushaf-KFGQPC
+# Mushaf-KFGQPC
 This is the version of KFGQPC mushaf that has its ayat numbers corrected.
 
 May Allah reward King Fahd Glorious Qur'an Printing Complex for issuing the mushaf in a digital format available here https://fonts.qurancomplex.gov.sa/wp02/حفص
