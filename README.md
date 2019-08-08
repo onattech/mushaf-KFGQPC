@@ -6,4 +6,4 @@ This mushaf comes with the KFGQPC HAFS Uthmanic Script font. This beautiful font
 
 The correct way to fix this issue would be to edit the font to render the numbers from left-to-right but I couldn't figure that out so I wrote a script to reiterate each number backward. It is now visually correct but if you make a search, you would have to search for '21' to find '12.
 
-![Image of MushafDiff](/mushafdiff.svg)
+![Image of MushafDiff](https://github.com/lokutech/mushaf-KFGQPC/blob/master/MushafDiff.svg)
